@@ -163,3 +163,4 @@ app.get('/balance', veryfyIfExistsAccountCpf, (req, res) =>{
 
 app.listen(3333)
 
+console.log("e isso ai");
